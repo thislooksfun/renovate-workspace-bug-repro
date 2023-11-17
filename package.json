@@ -1,0 +1,18 @@
+{
+  "name": "renovate-major-lock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "workspace-a"
+  ],
+  "dependencies": {
+    "apple-signin-auth": "1.7.5"
+  }
+}
