@@ -13,6 +13,6 @@
     "workspace-a"
   ],
   "dependencies": {
-    "apple-signin-auth": "1.7.5"
+    "apple-signin-auth": "1.7.6"
   }
 }
